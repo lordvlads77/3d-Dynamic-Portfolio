@@ -1,8 +1,8 @@
-# React + Vite
+# 3d-Dynamic Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### In here I will write the changelog for this project.
 
-Currently, two official plugins are available:
+#### Date format: (D/MM/YY)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*06/05/2024:* I create the project with vite and installed dependencies, also installed tailwind css, and Imported
+the stuff that needed to be imported. *-lordvlads77*
