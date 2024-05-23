@@ -24,7 +24,7 @@ const Hero = () => {
       </div>
       <ComputersCanvas />
     </section>
-  )
-}
+  );
+};
 
-export default Hero
+export default Hero;
