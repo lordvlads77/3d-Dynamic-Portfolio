@@ -22,7 +22,7 @@ a new branch by the time I remembered that I was halfway through fixing it, it w
 from scratch. *-lordvlads77*
 
 *16/06/2024:* I continued working on the 3d implementation and it finally worked! it showwws it's aliveeeee!!
-the problem was and issue with class naming and therefore wrong serialization. *-lordvlads77*
+the problem was an issue with class naming and therefore wrong serialization. *-lordvlads77*
 
 *PD: I realize now that this is now more
 of a dev log and not much a changelog so I may change this in the future*
