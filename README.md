@@ -27,7 +27,7 @@ the problem was an issue with class naming and therefore wrong serialization. *-
 *PD: I realize now that this is now more
 of a dev log and not much a changelog so I may change this in the future*
 
-*19/06/2024* I added a scrollbar feature so users mobile users now the can scroll down, and added a media query
+*19/06/2024:* I added a scrollbar feature so users mobile users now the can scroll down, and added a media query
 function so the 3d model of the hero section resizes appropiately when surfing the page on small devices, ie like a
 mobile phone or a small tablet, or a phablet though I do not know if those exist anymore
 (insert sweat drop emoji here).*-lordvlads77*
