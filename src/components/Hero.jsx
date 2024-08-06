@@ -18,7 +18,7 @@ const Hero = () => {
           text-white`}>Hi, I'm <span className="text-[#915eff]">
             Eva Luna</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop games, user interfaces & <br className="sm:block hidden"/> I'm the creator and founder of
+            I develop Games, User interfaces, webpages, <br className="sm:block hidden"/>Android Apps & I'm the creator and founder of
             FictionSearch
           </p>
         </div>

@@ -31,3 +31,9 @@ of a dev log and not much a changelog so I may change this in the future*
 function so the 3d model of the hero section resizes appropiately when surfing the page on small devices, ie like a
 mobile phone or a small tablet, or a phablet though I do not know if those exist anymore
 (insert sweat drop emoji here).*-lordvlads77*
+
+*01/08/24:* I started the About Section, with framermotion a h2 and p tag. *-lordvlads77*
+
+*05/08/24:* I finished the "About" Section, with the framer motion, nice Service Cards, a Higher Order Component
+and within a Section Wrapper that makes all the current done Sections of the Nice look nice and Center, also there is
+some really nice animations done by the framermotion that makes the page look just **AWESOME.** *-lordvlads77* 
