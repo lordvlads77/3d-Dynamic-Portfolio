@@ -6,3 +6,9 @@ library jejeje. *-lordvlads77*
 issue about the page suddenly going white and refusing to load because the Import of the Tilt library needed to go
 between curly braces so the page could properly load! and here I was thinking it was something to do with how Strict
 ESLint default rules for Webstorm are. *-lordvlads77.*
+
+*31/08/24* I started doing the Experience section and at some point I wanted to block comment a chunk of code and
+for some godforsaken reason webstorm is no longer offering **Block Comment** as an option in the Context Action menu
+So I had to go and look for the shortcut or do an annoying *3 dots icon -> Code -> Comment with Block Comment* instead
+of just going *alt + Enter and down arrow key and Enter* I guess I will have to start using the shortcut whenever I need
+to this, it's a bit annoying to be honest but bah as we say in Spanish **Ya que**. *-lordvlads77.*
